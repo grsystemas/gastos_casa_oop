@@ -15,11 +15,9 @@
 
 <?php include 'gastos.view.php'; ?>
 
-
-
 <hr />
 
-<!--<?php include 'carrito.view.php'; ?>-->
+<?php include 'form_gasto.view.php'; ?>
 
 </body>
 </html>
